@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@source "./**/*.{html,ts}";
+
+@layer base {
+  body {
+    background: #e9e9e9;
+  }
+
+  a {
+    text-decoration: underline;
+  }
+}
